@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589031258077.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3ABA3C00",
+    "lastKnownWriteTime" : 8314045280926310432,
+    "last_content_update" : 1589031258077,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2B4068B5",
+        "caption" : "top15_drinking",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=top15_drinking&cache_key=2B4068B5",
+        "displayedObservations" : 15,
+        "environment" : "",
+        "expression" : "top15_drinking",
+        "object" : "top15_drinking",
+        "preview" : 0,
+        "totalObservations" : 15,
+        "variables" : 5
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

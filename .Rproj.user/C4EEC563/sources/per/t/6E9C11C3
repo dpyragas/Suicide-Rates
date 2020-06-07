@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588696056483.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "421430112",
+    "id" : "6E9C11C3",
+    "lastKnownWriteTime" : 1590779036,
+    "last_content_update" : 1590779036988,
+    "path" : "D:/Univeras/Data Visualisation/S18123343/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "cursorPosition" : "147,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589028181206.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "27F11330",
+    "lastKnownWriteTime" : 7307491043415436322,
+    "last_content_update" : 1589028181206,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "61EE53BC",
+        "caption" : "happiness_data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=happiness_data&cache_key=61EE53BC",
+        "displayedObservations" : 158,
+        "environment" : "",
+        "expression" : "happiness_data",
+        "object" : "happiness_data",
+        "preview" : 0,
+        "totalObservations" : 158,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

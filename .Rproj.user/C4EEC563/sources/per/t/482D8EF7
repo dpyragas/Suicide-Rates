@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589029949891.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "482D8EF7",
+    "lastKnownWriteTime" : 1970155766720,
+    "last_content_update" : 1589029949891,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "24F92000",
+        "caption" : "top15_suicides",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=top15_suicides&cache_key=24F92000",
+        "displayedObservations" : "15",
+        "environment" : "",
+        "expression" : "top15_suicides",
+        "object" : "top15_suicides",
+        "preview" : "0",
+        "totalObservations" : "15",
+        "variables" : "5"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
